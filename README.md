@@ -30,7 +30,7 @@ Helps hospital management monitor ER efficiency, patient flow, and department wo
 
 ## 📊 Dashboard Preview
 
-![Hospital ER Dashboard](dashboard_final.png)
+![Hospital ER Dashboard](Dashboard_final.png)
 
 
 ---
